@@ -1,4 +1,4 @@
-# Tata 1mg Voice Agent - Daily Wellness Companion
+# eka.care Agent - Daily Wellness Companion
 
 
 Welcome to the **AI Voice Agents Challenge** by [murf.ai](https://murf.ai)!
